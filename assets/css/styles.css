@@ -14,7 +14,7 @@
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
   --body-font: "Poppins", sans-serif;
-  --h2-font-size: 0.25rem;
+  --h2-font-size: 0.75rem;
   --small-font-size: 0.813rem;
 }
 
